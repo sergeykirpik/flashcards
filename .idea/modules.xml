@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards.Flashcards-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards.Flashcards-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards.Flashcards-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards.Flashcards-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards.Flashcards-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards.Flashcards-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Blacklist/Flashcards.Problems-Blacklist.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Blacklist/Flashcards.Problems-Blacklist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Blacklist/Flashcards.Problems-Blacklist.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Blacklist/Flashcards.Problems-Blacklist.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Blacklist/Flashcards.Problems-Blacklist.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Blacklist/Flashcards.Problems-Blacklist.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Boxes are not just objects_/Flashcards.Problems-Boxes_are_not_just_objects_.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Boxes are not just objects_/Flashcards.Problems-Boxes_are_not_just_objects_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Boxes are not just objects_/Flashcards.Problems-Boxes_are_not_just_objects_.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Boxes are not just objects_/Flashcards.Problems-Boxes_are_not_just_objects_.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Boxes are not just objects_/Flashcards.Problems-Boxes_are_not_just_objects_.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Boxes are not just objects_/Flashcards.Problems-Boxes_are_not_just_objects_.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Correct the usage of non-generic class/Flashcards.Problems-Correct_the_usage_of_non-generic_class.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Correct the usage of non-generic class/Flashcards.Problems-Correct_the_usage_of_non-generic_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Correct the usage of non-generic class/Flashcards.Problems-Correct_the_usage_of_non-generic_class.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Correct the usage of non-generic class/Flashcards.Problems-Correct_the_usage_of_non-generic_class.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Correct the usage of non-generic class/Flashcards.Problems-Correct_the_usage_of_non-generic_class.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Correct the usage of non-generic class/Flashcards.Problems-Correct_the_usage_of_non-generic_class.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Creating a set/Flashcards.Problems-Creating_a_set.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Creating a set/Flashcards.Problems-Creating_a_set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Creating a set/Flashcards.Problems-Creating_a_set.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Creating a set/Flashcards.Problems-Creating_a_set.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Creating a set/Flashcards.Problems-Creating_a_set.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Creating a set/Flashcards.Problems-Creating_a_set.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Creating list/Flashcards.Problems-Creating_list.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Creating list/Flashcards.Problems-Creating_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Creating list/Flashcards.Problems-Creating_list.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Creating list/Flashcards.Problems-Creating_list.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Creating list/Flashcards.Problems-Creating_list.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Creating list/Flashcards.Problems-Creating_list.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Flashcards.Problems-Find_the_nearest_number.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Flashcards.Problems-Find_the_nearest_number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Flashcards.Problems-Find_the_nearest_number.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Flashcards.Problems-Find_the_nearest_number.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Flashcards.Problems-Find_the_nearest_number.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Flashcards.Problems-Find_the_nearest_number.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Output elements/Flashcards.Problems-Output_elements.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Output elements/Flashcards.Problems-Output_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Output elements/Flashcards.Problems-Output_elements.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Output elements/Flashcards.Problems-Output_elements.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Output elements/Flashcards.Problems-Output_elements.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Output elements/Flashcards.Problems-Output_elements.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Flashcards.Problems-Output_the_list's_elements.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Flashcards.Problems-Output_the_list's_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Flashcards.Problems-Output_the_list's_elements.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Flashcards.Problems-Output_the_list's_elements.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Flashcards.Problems-Output_the_list's_elements.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Flashcards.Problems-Output_the_list's_elements.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Squares list/Flashcards.Problems-Squares_list.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Squares list/Flashcards.Problems-Squares_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Squares list/Flashcards.Problems-Squares_list.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Squares list/Flashcards.Problems-Squares_list.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Squares list/Flashcards.Problems-Squares_list.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Squares list/Flashcards.Problems-Squares_list.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Flashcards.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Flashcards.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Flashcards.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Flashcards.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Flashcards.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Flashcards.util.test.iml" />
+    </modules>
+  </component>
+</project>
